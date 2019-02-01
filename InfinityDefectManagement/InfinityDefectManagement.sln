@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfinityDefectManagement", "InfinityDefectManagement\InfinityDefectManagement.csproj", "{9386811E-D152-4FBF-B4DB-66C2613F13C9}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfinityDefectManagementBusinessLayer", "InfinityDefectManagementBusinessLayer\InfinityDefectManagementBusinessLayer.csproj", "{4E77336E-36CD-4F81-8754-4692A0E7747C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfinityDefectManagementDataAccessLayer", "InfinityDefectManagementDataAccessLayer\InfinityDefectManagementDataAccessLayer.csproj", "{32F9BBF6-4496-4E95-B658-07483EF45993}"
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9386811E-D152-4FBF-B4DB-66C2613F13C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9386811E-D152-4FBF-B4DB-66C2613F13C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9386811E-D152-4FBF-B4DB-66C2613F13C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9386811E-D152-4FBF-B4DB-66C2613F13C9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4E77336E-36CD-4F81-8754-4692A0E7747C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4E77336E-36CD-4F81-8754-4692A0E7747C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E77336E-36CD-4F81-8754-4692A0E7747C}.Release|Any CPU.ActiveCfg = Release|Any CPU
